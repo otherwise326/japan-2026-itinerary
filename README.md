@@ -4,7 +4,7 @@ A shareable GitHub Pages version of the 2026 Okayama, Kurashiki, Osaka, Kobe, an
 
 Source itinerary lives in the Obsidian vault:
 
-`99_Secret-Diary/japan-2026-okayama-osaka-itinerary.md`
+`30_Index/Projects/Travel/2026-10-Okayama-Osaka/itinerary.md`
 
 Published page:
 
